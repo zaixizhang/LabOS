@@ -26,14 +26,21 @@
 
 <br><br>
 
-**Le Cong<sup>1,2*</sup>, Zaixi Zhang<sup>3*</sup>, Xiaotong Wang<sup>1,2*</sup>, Yin Di<sup>1,2*</sup>, Ruofan Jin<sup>3</sup>, Michal Gerasimiuk<sup>1,2</sup>, Yinkai Wang<sup>1,2</sup>,**
-**Ravi K. Dinesh<sup>1,2</sup>, David Smerkous<sup>4</sup>, Alex Smerkous<sup>5</sup>, Xuekun Wu<sup>2,6</sup>, Shilong Liu<sup>3</sup>, Peishan Li<sup>1,2</sup>,**
-**Yi Zhu<sup>1,2</sup>, Simran Serrao<sup>1,2</sup>, Ning Zhao<sup>1,2</sup>, Imran A. Mohammad<sup>2,7</sup>,**
-**John B. Sunwoo<sup>2,7</sup>, Joseph C. Wu<sup>2,6</sup>, Mengdi Wang<sup>3**</sup>**
+<p>
+Le Cong<sup>1,2*</sup>, Zaixi Zhang<sup>3*</sup>, Xiaotong Wang<sup>1,2*</sup>, Yin Di<sup>1,2*</sup>, Ruofan Jin<sup>3</sup>, Michal Gerasimiuk<sup>1,2</sup>, Yinkai Wang<sup>1,2</sup>,
+<br>
+Ravi K. Dinesh<sup>1,2</sup>, David Smerkous<sup>4</sup>, Alex Smerkous<sup>5</sup>, Xuekun Wu<sup>2,6</sup>, Shilong Liu<sup>3</sup>, Peishan Li<sup>1,2</sup>,
+<br>
+Yi Zhu<sup>1,2</sup>, Simran Serrao<sup>1,2</sup>, Ning Zhao<sup>1,2</sup>, Imran A. Mohammad<sup>2,7</sup>,
+<br>
+John B. Sunwoo<sup>2,7</sup>, Joseph C. Wu<sup>2,6</sup>, Mengdi Wang<sup>3&#8224;</sup>
+</p>
 
+<p>
 <sup>1</sup>Stanford School of Medicine &middot; <sup>2</sup>Stanford University &middot; <sup>3</sup>Princeton University &middot; <sup>4</sup>Oregon State University &middot; <sup>5</sup>University of Washington &middot; <sup>6</sup>Stanford Cardiovascular Institute &middot; <sup>7</sup>Stanford Cancer Institute
 <br>
-<sup>*</sup>Equal Contribution &nbsp;&nbsp; <sup>**</sup>Corresponding Author
+<sup>*</sup>Equal Contribution &nbsp;&nbsp; <sup>&#8224;</sup>Corresponding Author
+</p>
 
 </div>
 
