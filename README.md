@@ -26,14 +26,14 @@
 
 <br><br>
 
-**Le Cong, David Smerkous, Xiaotong Wang, Di Yin, Zaixi Zhang, Ruofan Jin, Yinkai Wang,**
-**Michal Gerasimiuk, Ravi K. Dinesh, Alex Smerkous, Lihan Shi, Joy Zheng, Ian Lam,**
-**Xuekun Wu, Shilong Liu, Peishan Li, Yi Zhu, Ning Zhao, Meenal Parakh, Simran Serrao,**
-**Imran A. Mohammad, Chao-Yeh Chen, Xiufeng Xie, Tiffany Chen, David Weinstein,**
-**Greg Barbone, Belgin Caglar, John B. Sunwoo, Fuxin Li, Jia Deng, Joseph C. Wu,**
-**Sanfeng Wu, Mengdi Wang**
+**Le Cong<sup>1,2*</sup>, Zaixi Zhang<sup>3*</sup>, Xiaotong Wang<sup>1,2*</sup>, Yin Di<sup>1,2*</sup>, Ruofan Jin<sup>3</sup>, Michal Gerasimiuk<sup>1,2</sup>, Yinkai Wang<sup>1,2</sup>,**
+**Ravi K. Dinesh<sup>1,2</sup>, David Smerkous<sup>4</sup>, Alex Smerkous<sup>5</sup>, Xuekun Wu<sup>2,6</sup>, Shilong Liu<sup>3</sup>, Peishan Li<sup>1,2</sup>,**
+**Yi Zhu<sup>1,2</sup>, Simran Serrao<sup>1,2</sup>, Ning Zhao<sup>1,2</sup>, Imran A. Mohammad<sup>2,7</sup>,**
+**John B. Sunwoo<sup>2,7</sup>, Joseph C. Wu<sup>2,6</sup>, Mengdi Wang<sup>3**</sup>**
 
-*Stanford University &middot; Princeton University &middot; Oregon State University &middot; University of Washington &middot; NVIDIA*
+<sup>1</sup>Stanford School of Medicine &middot; <sup>2</sup>Stanford University &middot; <sup>3</sup>Princeton University &middot; <sup>4</sup>Oregon State University &middot; <sup>5</sup>University of Washington &middot; <sup>6</sup>Stanford Cardiovascular Institute &middot; <sup>7</sup>Stanford Cancer Institute
+<br>
+<sup>*</sup>Equal Contribution &nbsp;&nbsp; <sup>**</sup>Corresponding Author
 
 </div>
 
@@ -256,7 +256,7 @@ If you find LabOS useful for your research, please cite:
 ```bibtex
 @article{cong2025labos,
   title   = {LabOS: The AI-XR Co-Scientist That Sees and Works With Humans},
-  author  = {Cong, Le and Smerkous, David and Wang, Xiaotong and Yin, Di and Zhang, Zaixi and Jin, Ruofan and Wang, Yinkai and Gerasimiuk, Michal and Dinesh, Ravi K. and Smerkous, Alex and Shi, Lihan and Zheng, Joy and Lam, Ian and Wu, Xuekun and Liu, Shilong and Li, Peishan and Zhu, Yi and Zhao, Ning and Parakh, Meenal and Serrao, Simran and Mohammad, Imran A. and Chen, Chao-Yeh and Xie, Xiufeng and Chen, Tiffany and Weinstein, David and Barbone, Greg and Caglar, Belgin and Sunwoo, John B. and Li, Fuxin and Deng, Jia and Wu, Joseph C. and Wu, Sanfeng and Wang, Mengdi},
+  author  = {Cong, Le and Zhang, Zaixi and Wang, Xiaotong and Di, Yin and Jin, Ruofan and Gerasimiuk, Michal and Wang, Yinkai and Dinesh, Ravi K. and Smerkous, David and Smerkous, Alex and Wu, Xuekun and Liu, Shilong and Li, Peishan and Zhu, Yi and Serrao, Simran and Zhao, Ning and Mohammad, Imran A. and Sunwoo, John B. and Wu, Joseph C. and Wang, Mengdi},
   journal = {arXiv preprint arXiv:2510.14861},
   year    = {2025}
 }
